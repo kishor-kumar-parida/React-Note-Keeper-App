@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Note-Keeper-App/static/css/main.e6c13ad2.css",
+    "main.js": "/React-Note-Keeper-App/static/js/main.bd5e03c4.js",
+    "static/js/453.6394a9c9.chunk.js": "/React-Note-Keeper-App/static/js/453.6394a9c9.chunk.js",
+    "index.html": "/React-Note-Keeper-App/index.html",
+    "main.e6c13ad2.css.map": "/React-Note-Keeper-App/static/css/main.e6c13ad2.css.map",
+    "main.bd5e03c4.js.map": "/React-Note-Keeper-App/static/js/main.bd5e03c4.js.map",
+    "453.6394a9c9.chunk.js.map": "/React-Note-Keeper-App/static/js/453.6394a9c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bd5e03c4.js"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Note Keeper App",
+  "description": "Keep your notes along with",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_title": "Note Keeper App",
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "note.png",
+      "128": "note.png"
+    }
+  }
+}
